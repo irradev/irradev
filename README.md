@@ -7,7 +7,6 @@ Web Developer
 With over 5 years of experience in web development, I specialize in creating responsive web applications with a strong focus on Frontend technologies. Currently, I’m engaged in Fintech projects, building solutions that meet high standards of performance and usability. My background includes working on medical equipment analysis applications and educational software for mobile devices. My current goal is to evolve into a Fullstack developer, primarily utilizing NodeJs and NestJs for backend development. I am known for my analytical approach and results-driven mindset. I prioritize robust error handling in my work to minimize bugs and ensure the reliability of my applications.
 
 * 🌍  I'm based in México
-<span style="visibility:hidden;">* 🖥️  See my portfolio at [irra.dev](http://irra.dev)</span>
 * ✉️  You can contact me at [israeldevcorel@gmail.com](mailto:israeldevcorel@gmail.com)
 * 🧠  I'm learning NodeJs
 * 🤝  I'm open to collaborating on Web Applications

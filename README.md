@@ -10,7 +10,8 @@ With over 5 years of experience in web development, I specialize in creating res
 * ✉️  You can contact me at [israeldevcorel@gmail.com](mailto:israeldevcorel@gmail.com)
 * 🧠  I'm learning NodeJs
 * 🤝  I'm open to collaborating on Web Applications
-* ⚡  I enjoy working with arrays and formatting strings using slices, hexadecimal transformations, and encryptions. I also have a passion for 3D design and am currently exploring ThreeJs. Additionally, I have a love for pixel art. 💖
+* ⚡   I enjoy working with arrays and formatting strings using hexadecimal transformations and encryptions.
+* 💖  I also have a passion for 3D design.
 
 <a href="https://www.github.com/irradev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/irradev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/irradev" target="_blank" rel="noreferrer"><img
